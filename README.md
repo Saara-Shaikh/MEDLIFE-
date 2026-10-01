@@ -1,2 +1,2 @@
 # MEDLIFE-
-A platform that 
+A platform that helps.
